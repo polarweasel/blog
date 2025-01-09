@@ -16,7 +16,7 @@ These sites are hosted on Dreamhost, which makes it really easy (two clicks) to 
 
 Then, I forced the web server (Apache, in this case) to redirect all non-encrypted requests to the encrypted site instead. To do that, I added this sort of thing to each site's `.htaccess` file:
 
-```
+```sh
 # Force all connections to go over SSL
 RewriteEngine On
 RewriteCond %{SERVER_PORT} 80
@@ -27,7 +27,7 @@ RewriteRule ^(.*)$ https://sitename.org/$1 [R,L]
 
 That's all you need to do for a static site. For the Wordpress sites, you need to do a couple more things: set the site URLs in the Settings - General menu to **https** instead of **http**, and add the following to the site's `wp-config.php` file, right above the "stop editing here" line:
 
-```
+```php
 define('FORCE_SSL', true);
 define('FORCE_SSL_ADMIN', true);
 ```

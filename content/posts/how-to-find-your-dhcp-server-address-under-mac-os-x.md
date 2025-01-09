@@ -14,12 +14,12 @@ From “Automatica Blog&mdash;Specialist Apple Mac support for creative professi
 
 Use this command to determine the IP address of the DHCP server your Mac is currently using:
 
-```
+```sh
 ipconfig getoption en0 server_identifier
 ```
 
 You can also do more with ipconfig, such as determine the router address for an interface:
 
-```
+```sh
 ipconfig getoption en0 router
 ```

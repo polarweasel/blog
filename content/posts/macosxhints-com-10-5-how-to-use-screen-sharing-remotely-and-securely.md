@@ -12,6 +12,6 @@ Link: [macosxhints.com - 10.5: How to use screen sharing remotely and securely](
 
 article is a bit off…
 
-```
+```sh
 ssh -L 1202:localhost:5900 remote-host
 ```

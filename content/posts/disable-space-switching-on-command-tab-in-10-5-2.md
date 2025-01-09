@@ -10,6 +10,6 @@ url: /2008/02/13/26250839/
 ---
 Link: [Disable Space switching on Command-Tab in 10.5.2](http://www.macosxhints.com/article.php?story=2008021122525348)
 
-```
+```sh
 defaults write com.apple.Dock workspaces-auto-swoosh -bool NO
 ```

@@ -14,7 +14,7 @@ HP software update 2.10 came out recently for Lion and Mountain Lion, and causes
 
 Delete this:
 
-```
+```sh
 /Library/Printers/hp/PDEs/hpPostScriptPDE.plugin
 ```
 
