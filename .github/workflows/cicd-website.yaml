@@ -30,7 +30,7 @@ jobs:
       - name: 🔐 Create Key File
         run: install -m 600 -D /dev/null ~/.ssh/id_rsa
       - name: 🔐 Load Host Keys
-        run: echo "${{ secrets.KNOWN_HOSTS }}" > ~/.ssh/known_hosts
+        run: echo "${{ secrets.SSH_KNOWN_HOSTS }}" > ~/.ssh/known_hosts
       - name: 🔑 Populate Key
         run: echo "${{ secrets.LIMITED_PRIVATE_KEY }}" > ~/.ssh/id_rsa
       - name: 🚀 Upload
