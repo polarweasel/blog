@@ -73,7 +73,7 @@ params:
 languages:
   en:
     languageName: English
-    title: Terminal
+    title: Weasel words
     params:
       subtitle: (frequent updates are for other people)
       owner: ""
