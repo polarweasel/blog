@@ -1,0 +1,5 @@
+# Building a gitignore as we go...
+
+*.lock
+_gen/
+public/
