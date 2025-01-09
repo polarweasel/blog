@@ -12,4 +12,4 @@ Link: [Pregnancy not turning minds to mush: Study](http://www.physorg.com/news14
 
 Best headline I’ve seen in a while!
 
-Also, the money quote: “Our research suggests that although women â€“ and their partners â€“ think there may be a link between brain capacity and pregnancy and motherhood, there are certainly no permanent ones that we can find…”
+Also, the money quote: “Our research suggests that although women&mdash;and their partners&mdash;think there may be a link between brain capacity and pregnancy and motherhood, there are certainly no permanent ones that we can find…”

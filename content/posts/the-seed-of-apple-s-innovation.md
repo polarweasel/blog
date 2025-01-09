@@ -11,9 +11,9 @@ url: /2011/05/17/the-seed-of-apples-innovation/
 ---
 [The Seed of Apple's Innovation](http://www.businessweek.com/bwdaily/dnflash/oct2004/nf20041012_4018_db083.htm) is almost seven years old now. And it's still entirely relevant today. Maybe even more so, since it's clear that many of Apple's competitors still don't understand why the fuck they're getting their asses kicked.
 
-> **Steve Jobs**: Look at Microsoft (MSFT ) — who's running Microsoft?  
-**Interviewer**: Steve Ballmer.  
-**Steve Jobs**: Right, the sales guy. Case closed.
+> **Steve Jobs**: Look at Microsoft (MSFT ) — who's running Microsoft?
+> **Interviewer**: Steve Ballmer.
+> **Steve Jobs**: Right, the sales guy. Case closed.
 
 (Microsoft's stock price has now been stagnant for [over a decade](http://www.google.com/finance?client=ob&q=NASDAQ:MSFT)...)
 

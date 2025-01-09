@@ -10,4 +10,4 @@ url: /2009/06/04/118039697/
 ---
 Link: [Bruce Mau Design - Incomplete Manifesto](http://www.brucemaudesign.com/incomplete_manifesto.html)
 
-“Written in 1998, the Incomplete Manifesto is an articulation of statements exemplifying Bruce Mauâ€™s beliefs, strategies and motivations. Collectively, they are how we approach every project.”
+“Written in 1998, the Incomplete Manifesto is an articulation of statements exemplifying Bruce Mau's beliefs, strategies and motivations. Collectively, they are how we approach every project.”

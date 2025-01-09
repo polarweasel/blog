@@ -30,7 +30,7 @@ I still blush a bit when I read the "fantastic" part. In that particular instanc
 
 When your documentation is good, and is packaged in formats that work well for you, you get some serious long-term benefits. Here are a few:
 
-- **Save time and money: help new developers get ramped-up and productive.** Recently, a newly-hired engineer was so delighted with the level of documentation in the code, he emailed me just to say so: "\[Redacted\] tells me all the comments in this code are your fault. I am weeks ahead now. Thanks!!!"
+- **Save time and money: help new developers get ramped-up and productive.** Recently, a newly-hired engineer was so delighted with the level of documentation in the code, he emailed me just to say so: "[Redacted] tells me all the comments in this code are your fault. I am weeks ahead now. Thanks!!!"
 - **Get a team started on the next version of a project.** When a client started a new project based on another I'd worked on, the engineering manager told me that "The old APIs are so well-documented, we're halfway to beta on this already."
 - **Reduce your support and training costs when you roll out an API or platform to partners.** Good reference and training materials are always appreciated.
 

@@ -14,4 +14,4 @@ Adobe releases [touch-based SDK](http://arstechnica.com/apple/news/2011/04/adobe
 
 As I was [saying](/2011/03/03/thoughts-around-the-ipad-2-and-touch-based-interfaces) _eons_ ago...
 
-> And probably before _any_ of that, weâ€™ll start seeing people using iPads as â€œcontrollersâ€ for their desktop computers. I canâ€™t imagine software developers havenâ€™t been thinking about â€œtethered appsâ€ already. Think of an application running on your computerâ€™s big screen(s), and interacting with that with the companion software running on your iPad.
+> And probably before _any_ of that, we'll start seeing people using iPads as "controllers" for their desktop computers. I can't imagine software developers haven't been thinking about "tethered apps" already. Think of an application running on your computer's big screen(s), and interacting with that with the companion software running on your iPad.

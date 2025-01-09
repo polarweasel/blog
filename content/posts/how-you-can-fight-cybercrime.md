@@ -10,4 +10,4 @@ url: /2007/06/14/3472670/
 ---
 Link: [How You Can Fight Cybercrime](http://www.cio.com/article/print/117201)
 
-Crime, porn, hacking… the best of the best, and we can learn from them!  
+Crime, porn, hacking… the best of the best, and we can learn from them!

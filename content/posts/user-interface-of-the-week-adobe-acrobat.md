@@ -12,7 +12,7 @@ url: /2012/07/11/user-interface-of-the-week-adobe-acrobat/
 
 > ASCII checkboxes. A button labelled "UnCheck".
 >
-> _[link](http://daringfireball.net/linked/2012/07/11/ui-of-the-week-adobe-acrobat "Permanent link to â€˜User Interface of the Week: Adobe Acrobatâ€™")_
+> _[link](http://daringfireball.net/linked/2012/07/11/ui-of-the-week-adobe-acrobat "Permanent link to 'User Interface of the Week: Adobe Acrobat'")_
 
 (Via [Daring Fireball](http://daringfireball.net/))
 

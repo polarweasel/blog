@@ -13,7 +13,7 @@ Ars Technica: [Siri is iPhone 4S-only today; where will it be tomorrow?](http://
 
 The whole thing's decent, but for now, skip right down to the bottom of the article and read that section calling out the potential problems:
 
-> Michael Okuda also noted that voice input is generally inefficient. "Imagine I'm looking at some photos, and I want to say, 'Up, up, left, down one, photo number 3362, no, the one on the left.'â€”that's much slower than just clicking or tapping," he said. "Natural language is, I think, going to have some significant limitations."
+> Michael Okuda also noted that voice input is generally inefficient. "Imagine I'm looking at some photos, and I want to say, 'Up, up, left, down one, photo number 3362, no, the one on the left.'&mdash;that's much slower than just clicking or tapping," he said. "Natural language is, I think, going to have some significant limitations."
 
 We currently interact with our computers and other devices in several different ways: direct and indirect touch, keyboards, mice, styli, voice, and more. I fail to see why people would suddenly interact solely by voice.
 

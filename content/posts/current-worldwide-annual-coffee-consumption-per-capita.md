@@ -9,7 +9,7 @@ title: Current worldwide annual coffee consumption per capita
 url: /2011/02/21/current-worldwide-annual-coffee-consumption-per-capita/
 
 ---
-If you want to know where Starbucks' emerging markets are, there are probably worse places to start than right here:Â [Current Worldwide Annual Coffee Consumption per capita](http://chartsbin.com/view/581) from ChartsBin. Current [meat consumption](http://chartsbin.com/view/bhy) is interesting, too.
+If you want to know where Starbucks' emerging markets are, there are probably worse places to start than right here:[Current Worldwide Annual Coffee Consumption per capita](http://chartsbin.com/view/581) from ChartsBin. Current [meat consumption](http://chartsbin.com/view/bhy) is interesting, too.
 
 Click through and play with the map for a lot more detail, but here's a screenshot to get you started:
 

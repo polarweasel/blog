@@ -10,7 +10,7 @@ url: /2009/08/08/158646166/
 ---
 Link: [How to find your DHCP Server Address under Mac OS X](http://automatica.com.au/blog/2009/07/how-to-find-your-dhcp-server-address-under-mac-os-x/)
 
-From “Automatica Blog â€“ Specialist Apple Mac support for creative professionals, Melbourne Australia”, edited slightly for clarity and grammar:
+From “Automatica Blog&mdash;Specialist Apple Mac support for creative professionals, Melbourne Australia”, edited slightly for clarity and grammar:
 
 Use this command to determine the IP address of the DHCP server your Mac is currently using:
 

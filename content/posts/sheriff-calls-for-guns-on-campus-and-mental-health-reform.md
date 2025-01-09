@@ -12,4 +12,4 @@ Link: [Sheriff calls for guns on campus and mental health reform](http://www.lar
 
 Larimer (Colorado) County Sheriff Jim Alderden has an interesting take on guns on campus… In his county, CSU allows concealed weapons. In Boulder County, CU Boulder forbids them.
 
-Â Alderden was instrumental in passing Colorado’s CCW law, and apparently the shall-issue program was based on his practices in Larimer County.
+Alderden was instrumental in passing Colorado’s CCW law, and apparently the shall-issue program was based on his practices in Larimer County.

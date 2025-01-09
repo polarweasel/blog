@@ -10,4 +10,4 @@ url: /2011/03/21/st-ronnie-of-yorba-linda/
 ---
 [St. Ronnie of Yorba Linda—Some Home Truths](http://cdespinosa.posterous.com/st-ronnie-of-yorba-lindasome-home-truths) is a good read from Chris Espinosa. Take five minutes and enjoy. It starts thus, and improves:
 
-> But that view, when not outright false, is a huge distortion of Reaganâ€™s actual presidency. And while thatâ€™s par for the course for venerated leaders, itâ€™s particularly pernicious in this case, because what Reagan actually did and actually stood for was particularly harmful to our domestic liberty, our international standing, and the rule of law.
+> But that view, when not outright false, is a huge distortion of Reagan's actual presidency. And while that's par for the course for venerated leaders, it's particularly pernicious in this case, because what Reagan actually did and actually stood for was particularly harmful to our domestic liberty, our international standing, and the rule of law.

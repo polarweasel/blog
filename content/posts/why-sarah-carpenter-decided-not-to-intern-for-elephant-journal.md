@@ -17,10 +17,10 @@ url: /2011/03/23/why-sarah-carpenter-decided-not-to-intern-for-elephant-journal/
 
 After she decided to quit after a couple of days on the job, Waylon asked her to write an article for the site explaining why she was leaving. The reasons sound awfully familiar:
 
-> Looking on at the elephant website, I noticed the amount of times Waylonâ€™s name and puckering posed pictures appear all throughout. Started to remind me of Oprahâ€™s â€œOâ€ magazine, and how every single cover has been a picture of her. _Too much!_
+> Looking on at the elephant website, I noticed the amount of times Waylon's name and puckering posed pictures appear all throughout. Started to remind me of Oprah's "O" magazine, and how every single cover has been a picture of her. _Too much!_
 
 And:
 
-> So itâ€™s no secret that the editor-in-chief of elephant has a lot of self-confidence, even while heâ€™s spreading enlightenment. But does it really have to be this way? I at least know that I would have a hard time focusing on my journalistic goals while humoring the multitude of selfish, and selfless, goals of one man.
+> So it's no secret that the editor-in-chief of elephant has a lot of self-confidence, even while he's spreading enlightenment. But does it really have to be this way? I at least know that I would have a hard time focusing on my journalistic goals while humoring the multitude of selfish, and selfless, goals of one man.
 
 In a nutshell: Waylon.

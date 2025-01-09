@@ -10,6 +10,6 @@ url: /2007/11/09/18863298/
 ---
 Link: [Quick Look From the Command Line](http://www.srhaber.com/2007/11/04/quick-look-from-the-command-line/)
 
-Shaun Haber on Leopardâ€™s â€œqlmanageâ€ command-line tool.
+Shaun Haber on Leopard's "qlmanage" command-line tool.
 
-[Â â˜…Â](http://daringfireball.net/linked/2007/november#thu-08-qlmanage "Permanent link to â€˜Quick Look From the Command Lineâ€™")
+[via DF](http://daringfireball.net/linked/2007/november#thu-08-qlmanage "Permanent link to 'Quick Look From the Command Line'")

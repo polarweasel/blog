@@ -12,6 +12,6 @@ Link: [Starbucks Might Be Helping, Not Hurting, Independent Coffee Shops](http:/
 
 Taylor Clark in Slate:
 
-> According to recent figures from the Specialty Coffee Association of America, 57 percent of the nationâ€™s coffeehouses are still mom and pops. Just over the five-year period from 2000 to 2005â€”long after Starbucks supposedly obliterated indie cafesâ€”the number of mom and pops grew 40 percent, from 9,800 to nearly 14,000 coffeehouses.
+> According to recent figures from the Specialty Coffee Association of America, 57 percent of the nation's coffeehouses are still mom and pops. Just over the five-year period from 2000 to 2005&mdash;long after Starbucks supposedly obliterated indie cafes&mdash;the number of mom and pops grew 40 percent, from 9,800 to nearly 14,000 coffeehouses.
 
-[Â â˜…Â](http://daringfireball.net/linked/2007/december#sun-30-starbucks_indie "Permanent link to â€˜Starbucks Might Be Helping, Not Hurting, Independent Coffee Shopsâ€™")
+[via DF](http://daringfireball.net/linked/2007/december#sun-30-starbucks_indie "Permanent link to 'Starbucks Might Be Helping, Not Hurting, Independent Coffee Shops'")

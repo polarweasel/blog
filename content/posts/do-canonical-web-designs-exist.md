@@ -12,4 +12,4 @@ Link: [Do Canonical Web Designs Exist?](http://bokardo.com/archives/canonical)
 
 Outstanding essay by Joshua Porter on the state of web design.
 
-[Â â˜…Â](http://daringfireball.net/linked/2007/november#mon-19-porter "Permanent link to â€˜Do Canonical Web Designs Exist?â€™")
+[via DF](http://daringfireball.net/linked/2007/november#mon-19-porter "Permanent link to 'Do Canonical Web Designs Exist?'")

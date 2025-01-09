@@ -12,5 +12,5 @@ Link: [Denver launches new Driving Change initiative](http://feeds.feedburner.co
 
 Filed under: [Green Culture](http://www.autobloggreen.com/category/green-culture/), [Green Daily](http://www.autobloggreen.com/category/green-daily/), [USA](http://www.autobloggreen.com/category/usa/)
 
- [![](http://www.blogsmithmedia.com/www.autobloggreen.com/media/2008/03/dcdenver.gif)](https://www.drivingchange.org/Pages/AboutTheProgram.aspx)  
+ [![](http://www.blogsmithmedia.com/www.autobloggreen.com/media/2008/03/dcdenver.gif)](https://www.drivingchange.org/Pages/AboutTheProgram.aspx)
 It’s a well-known fact that the way you drive often has just as much impact on your fuel mileage as what you are driving. Lead-footing…

@@ -28,13 +28,13 @@ This ought to be interesting. My daily tally will be below the fold on this post
 
 (6 items so far)
 
-**Nov 4**: 1 Nalgene bottle (yeah, we have a lot of these), 1 down jacket (poorly made, annoying for several years), 1 pair gloves, 1 bag dog dental bonesÂ (unopened: Grover just doesn't like this kind)
+**Nov 4**: 1 Nalgene bottle (yeah, we have a lot of these), 1 down jacket (poorly made, annoying for several years), 1 pair gloves, 1 bag dog dental bones(unopened: Grover just doesn't like this kind)
 
 **Nov 5**: 5 pint glasses
 
 **Nov 6**: 1 tube auto-body seam sealer, 5 phone cases (yes, really...)
 
-(21Â items so far)
+(21items so far)
 
 **Nov 7**: 4 mugs, 1 hoodie (dating back to when I lived in Chicago), 1 scarf, 1 baseball cap
 
@@ -46,7 +46,7 @@ This ought to be interesting. My daily tally will be below the fold on this post
 
 **Nov 10**: 1 printer transfer repair kit, 5 toner cartridges, 1 baby bouncer, 1 pair EMS pants, 1 polo shirt ( _finally_, the last one I owned), 1 die wrench (with many more tools to come)
 
-**Nov 11**: 4 cassette tapes (to play in what, exactly?), 2 specialty Allen keys, 2 bike pedals, 1 antique wrench, 1 antique folding ruler, 1 nut driver (that was sittingÂ _right next to another, nicer one of the same size_)
+**Nov 11**: 4 cassette tapes (to play in what, exactly?), 2 specialty Allen keys, 2 bike pedals, 1 antique wrench, 1 antique folding ruler, 1 nut driver (that was sitting_right next to another, nicer one of the same size_)
 
 (66 items so far)
 
@@ -62,13 +62,13 @@ This ought to be interesting. My daily tally will be below the fold on this post
 
 **Nov 16**: 1 broken measuring spoon, 1 more pair five finger shoes, 2 pairs socks, 5 scarves, 1 headband, 1 tuque, 3 pairs gloves, 1 drill, 1 circular saw
 
-**Nov 17**: 17 slides (there were 100, dating back to 1996 â€” oh what fun to sort those)
+**Nov 17**: 17 slides (there were 100, dating back to 1996 &mdash; oh what fun to sort those)
 
 **Nov 18**: 18 slides (see yesterday's entry)
 
 **Nov 19**: 19 slides (again)
 
-(190 items so far)Â (Also, yes, I added the entries for Nov 20-24 tonight.) **Nov 20**: 20 slides (yup)
+(190 items so far)(Also, yes, I added the entries for Nov 20-24 tonight.) **Nov 20**: 20 slides (yup)
 
 **Nov 21**: 21 slides (yup)
 
@@ -80,17 +80,17 @@ This ought to be interesting. My daily tally will be below the fold on this post
 
 (300 items so far) (What a nice round number.)
 
-**Nov 25**:Â 1 bottle jack,Â 1 pile of lug nuts (maybe 20?),Â 2 factory tool bags,Â 1 audio adapter,Â 1 shoulder strap,Â 1 pair pants (great design, lint-magnet fabric â€” kept the pair made of good fabric!),Â 1 multimeter,Â 2 pens,Â 1 Nalgene bottle,Â 1 pair pliers,Â 1 glue syringe with scary needle,Â 4 hole saws,Â 1 oxygen wrench,Â 2 Plierench jaws (lost the wrench a couple years ago, but it was from Grandpa...),Â 3 cases hand warmer packets (expired, probably 60 or so, never worked well),Â 1 pair lineman pliers,Â 1 watch cap
+**Nov 25**:1 bottle jack,1 pile of lug nuts (maybe 20?),2 factory tool bags,1 audio adapter,1 shoulder strap,1 pair pants (great design, lint-magnet fabric &mdash; kept the pair made of good fabric!),1 multimeter,2 pens,1 Nalgene bottle,1 pair pliers,1 glue syringe with scary needle,4 hole saws,1 oxygen wrench,2 Plierench jaws (lost the wrench a couple years ago, but it was from Grandpa...),3 cases hand warmer packets (expired, probably 60 or so, never worked well),1 pair lineman pliers,1 watch cap
 
-**Nov 26**: 1 Camelbak (too small),Â 1 dog bed (past its expiration date),Â 1 iron (I meant to do this ages ago!),Â 1 Cruiser ashtray, 1 airport express (possibly functional, but flaky),Â 1 poop bag dispenser, 20 books (lots more to go)
+**Nov 26**: 1 Camelbak (too small),1 dog bed (past its expiration date),1 iron (I meant to do this ages ago!),1 Cruiser ashtray, 1 airport express (possibly functional, but flaky),1 poop bag dispenser, 20 books (lots more to go)
 
 (351 items so far)
 
-**Nov 27**:Â 27Â books
+**Nov 27**:27books
 
-**Nov 28**:Â 12 books, 16 random kid things
+**Nov 28**:12 books, 16 random kid things
 
-**Nov 29**:Â 11 random antiques and other, 1 pair kid slippers, 1 pair kid boots, 1 stack business cards, 3 Land Cruiser emblems, 2 random kid things, 10 blank DVD-Rs
+**Nov 29**:11 random antiques and other, 1 pair kid slippers, 1 pair kid boots, 1 stack business cards, 3 Land Cruiser emblems, 2 random kid things, 10 blank DVD-Rs
 
 **Nov 30**: 30 blank CD-Rs (who uses those anymore???)
 

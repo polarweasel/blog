@@ -16,4 +16,4 @@ Matt Neuburg:
 
 Great details on how to construct complex Spotlight queries.
 
-[Â â˜…Â](http://daringfireball.net/linked/2007/november#tue-13-spotlight "Permanent link to â€˜Spotlight Strikes Backâ€™")
+[via DF](http://daringfireball.net/linked/2007/november#tue-13-spotlight "Permanent link to 'Spotlight Strikes Back'")

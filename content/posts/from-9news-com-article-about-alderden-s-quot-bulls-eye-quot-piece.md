@@ -14,6 +14,6 @@ The University of Colorado at Boulder forbids concealed firearms on campus. CU P
 
 On the mental health front, the National Alliance on Mental Health says there are alternatives to institutionalizing more people.
 
-“The U.S. Surgeon General has reported that the likelihood of violence by people with mental illness is low â€¦ More often, people living with mental illness are the victims of violence,” states NAMI in a press release that went out after the Virginia Tech shootings.
+“The U.S. Surgeon General has reported that the likelihood of violence by people with mental illness is low ... More often, people living with mental illness are the victims of violence,” states NAMI in a press release that went out after the Virginia Tech shootings.
 
-Â [link](http://www.9news.com/news/article.aspx?storyid=71477)
+[link](http://www.9news.com/news/article.aspx?storyid=71477)

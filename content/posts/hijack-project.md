@@ -8,7 +8,7 @@ title: HiJack project
 url: /2011/01/14/hijack-project/
 
 ---
-"Hijacking power and bandwidth from the mobile phone's audio interface.Â Creating a cubic-inch peripheral sensor ecosystem for the mobile phone."
+"Hijacking power and bandwidth from the mobile phone's audio interface.Creating a cubic-inch peripheral sensor ecosystem for the mobile phone."
 
 In other words, a two-way sensor interface that plugs into a smartphone's headphone jack.
 

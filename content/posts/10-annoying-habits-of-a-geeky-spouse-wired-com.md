@@ -12,4 +12,4 @@ Link: [10 Annoying Habits of a Geeky Spouse \| Wired.com](http://blog.wired.com/
 
 I will fess up to all but 10, 7, 3, and 2.
 
-And “Frak” is a stupid way to swearâ€”just use “fuck” and its friends, and get your point across properly. :)
+And “Frak” is a stupid way to swear&mdash;just use “fuck” and its friends, and get your point across properly. :)

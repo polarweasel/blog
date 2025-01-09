@@ -11,7 +11,7 @@ title: Inside Apple's Q2 Numbers
 url: /2011/04/24/inside-apples-q2-numbers/
 
 ---
-Jean-Louis Gassée takes a look at [Apple's Q2 numbers](http://www.mondaynote.com/2011/04/24/inside-appleâ€™s-q2-numbers/) in his latest _Monday Note_ column. His columns are almost always interesting and insightful; this one's no exception.
+Jean-Louis Gassée takes a look at [Apple's Q2 numbers](http://www.mondaynote.com/2011/04/24/inside-apple's-q2-numbers/) in his latest _Monday Note_ column. His columns are almost always interesting and insightful; this one's no exception.
 
 To me, one of the most interesting numbers is the Asia-Pacific growth (76% growth, vs 28% overall) of the Mac platform, accompanied of course by overall 151% revenue in the region. Also interesting, but unsurprising, to note that desktop sales are still going down by single-digit percentages every quarter — 6% this quarter — while laptop sales grew by 59%.
 

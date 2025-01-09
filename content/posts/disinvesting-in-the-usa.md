@@ -10,4 +10,4 @@ url: /2009/11/28/261040639/
 ---
 Link: [Disinvesting In the USA](http://www.tbray.org/ongoing/When/200x/2009/11/25/De-investing-from-the-USA)
 
-Tim Bray lays out his reasons for not investing in the US economy, including circumstances that would make him jump back in: “Iâ€™d promptly reinvest in an America where there was fact-based dialogue between sane Left and Right factions and which had a Chinese trading partner interested in a sustainable relationship. Iâ€™m not holding my breath.”
+Tim Bray lays out his reasons for not investing in the US economy, including circumstances that would make him jump back in: “I'd promptly reinvest in an America where there was fact-based dialogue between sane Left and Right factions and which had a Chinese trading partner interested in a sustainable relationship. I'm not holding my breath.”

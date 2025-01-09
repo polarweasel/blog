@@ -12,6 +12,6 @@ Link: [MPAA Bans This Poster](http://www.monoscope.com/2007/12/mpaa_bans_this_po
 
 Beautiful movie poster for _Taxi to the Dark Side_, banned by the MPAA because it features a U.S. Army detainee in a hood. Which is something that actually happened and happens.
 
-Someone needs to stand up and decry the MPAA for what it is: a censorship board. Thereâ€™d be mass outrage in the mainstream media if there were an equivalent of the MPAA for books â€” imagine a book cover needing the approval of some mysterious board of conservative prudes, as movie posters do.
+Someone needs to stand up and decry the MPAA for what it is: a censorship board. There'd be mass outrage in the mainstream media if there were an equivalent of the MPAA for books &mdash; imagine a book cover needing the approval of some mysterious board of conservative prudes, as movie posters do.
 
-[Â â˜…Â](http://daringfireball.net/linked/2007/december#sat-22-mpaa "Permanent link to â€˜MPAA Bans This Posterâ€™")
+[via DF](http://daringfireball.net/linked/2007/december#sat-22-mpaa "Permanent link to 'MPAA Bans This Poster'")

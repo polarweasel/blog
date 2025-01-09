@@ -12,4 +12,4 @@ Link: [New Seasons Market: We're Just Trying To Mind Our Own (Local) Business](h
 
 This is ridiculous behavior from Whole Foods. Absolutely despicable, opportunistic bullshit:
 
-> “As it turns out, because of their legal dispute with the FTC, Whole Foods has an opportunity to try and force us to give them copies of some of our most confidential financial records â€“ for instance what our sales are, week by week, at each of our stores. Theyâ€™ve also demanded all of our files that detail our strategic plans, all of our marketing plans and all of our studies about where we are considering opening new stores.”
+> “As it turns out, because of their legal dispute with the FTC, Whole Foods has an opportunity to try and force us to give them copies of some of our most confidential financial records&mdash;for instance what our sales are, week by week, at each of our stores. They've also demanded all of our files that detail our strategic plans, all of our marketing plans and all of our studies about where we are considering opening new stores.”

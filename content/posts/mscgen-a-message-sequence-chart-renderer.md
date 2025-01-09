@@ -10,4 +10,4 @@ url: /2010/10/05/1251416011/
 ---
 Link: [Mscgen: A Message Sequence Chart Renderer](http://www.mcternan.me.uk/mscgen/)
 
-If you need itâ€”and I do at the momentâ€”this is damned handy. Integrates nicely with Doxygen, too.
+If you need it&mdash;and I do at the moment&mdash;this is damned handy. Integrates nicely with Doxygen, too.

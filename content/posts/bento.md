@@ -10,6 +10,6 @@ url: /2007/11/13/19348374/
 ---
 Link: [Bento](http://www.bentotrial.com/preview/default.aspx)
 
-Public beta of a mysterious, intriguing new app from FileMaker â€” a Leopard-only â€œpersonal databaseâ€.
+Public beta of a mysterious, intriguing new app from FileMaker &mdash; a Leopard-only "personal database".
 
-[Â â˜…Â](http://daringfireball.net/linked/2007/november#tue-13-bento "Permanent link to â€˜Bentoâ€™")
+[via DF](http://daringfireball.net/linked/2007/november#tue-13-bento "Permanent link to 'Bento'")

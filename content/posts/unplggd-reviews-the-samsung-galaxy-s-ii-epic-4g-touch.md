@@ -22,6 +22,6 @@ My two favorite quotes:
 
 > It's still no Retina Display, but Samsung's Super AMOLED is a category leading display otherwise.
 >
-> â€¦
+> ...
 >
 > If we were just considering specs on paper and were in the market for an Android based phone, this would be a frontrunner. However, after our short demo with the Samsung Galaxy S II, we weren't wowed by the ergonomics, and to a lesser extent the material build, finding it best suited for those with larger hands and a blind eye to UI clutter.

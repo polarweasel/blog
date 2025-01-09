@@ -10,4 +10,4 @@ url: /2007/06/25/4248798/
 ---
 Link: [AMA rethinks classifying video game addiction as mental disorder](http://arstechnica.com/news.ars/post/20070624-ama-rethinks-classifying-video-game-addiction-as-mental-disorder.html)
 
-The “issue needs more study” â€” gee, ya think?
+The “issue needs more study” &mdash; gee, ya think?

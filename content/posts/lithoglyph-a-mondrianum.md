@@ -10,4 +10,4 @@ url: /2008/01/27/24759291/
 ---
 Link: [Lithoglyph Â» Mondrianum](http://www.lithoglyph.com/mondrianum)
 
-Color-picker plugin for Leopard: searches [Adobe Kuler](http://kuler.adobe.com/) for color combinations. In beta currentlyâ€”no clue if it’ll be free after Feb 28.
+Color-picker plugin for Leopard: searches [Adobe Kuler](http://kuler.adobe.com/) for color combinations. In beta currently&mdash;no clue if it’ll be free after Feb 28.

@@ -8,6 +8,6 @@ title: Alan Cooper on Engineering
 url: /2010/03/29/482281496/
 
 ---
-> The phrase â€œengineers build bridgesâ€ is just a euphemism. Actually, ironworkers build bridges. Engineering is a DESIGN discipline.
+> The phrase "engineers build bridges"is just a euphemism. Actually, ironworkers build bridges. Engineering is a DESIGN discipline.
 
  [Alan Cooper](http://www.cooper.com/)
