@@ -1,28 +1,28 @@
-name: Publish
+name: Build & Publish
 
 on:
+  # Run when a blog change gets pushed to the main branch
   push:
     paths:
       - "blog.polarweasel.org/**"
     branches:
       - main
 
+  # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
 jobs:
   deploy:
-    name: Build and Deploy
+    name: Build and Publish
     runs-on: ubuntu-latest
     steps:
       - name: 🛒 Checkout
         uses: actions/checkout@v4
       - name: ✨ Install Hugo
-        env:
-          HUGO_VERSION: 0.140.2
         run: |
           mkdir ~/hugo
           cd ~/hugo
-          curl -L "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-64bit.tar.gz" --output hugo.tar.gz
+          curl -L "https://github.com/gohugoio/hugo/releases/download/v${{ vars.HUGO_VERSION }}/hugo_${{ vars.HUGO_VERSION }}_Linux-64bit.tar.gz" --output hugo.tar.gz
           tar -xvzf hugo.tar.gz
           sudo mv hugo /usr/local/bin
       - name: 🛠️ Build
@@ -33,5 +33,5 @@ jobs:
         run: echo "${{ secrets.SSH_KNOWN_HOSTS }}" > ~/.ssh/known_hosts
       - name: 🔑 Populate Key
         run: echo "${{ secrets.LIMITED_PRIVATE_KEY }}" > ~/.ssh/id_rsa
-      - name: 🚀 Upload
+      - name: 🚀 Publish
         run: rsync -avz --delete blog.polarweasel.org/public/ ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:${{ secrets.SSH_PATH }}
