@@ -26,7 +26,7 @@ jobs:
           tar -xvzf hugo.tar.gz
           sudo mv hugo /usr/local/bin
       - name: 🛠️ Build
-        run: hugo -s blog.polarweasel.org/
+        run: hugo -s ${{ vars.HUGO_SITENAME }}/
       - name: 🔐 Create Key File
         run: install -m 600 -D /dev/null ~/.ssh/id_rsa
       - name: 🔐 Load Host Keys
@@ -34,4 +34,4 @@ jobs:
       - name: 🔑 Populate Key
         run: echo "${{ secrets.LIMITED_PRIVATE_KEY }}" > ~/.ssh/id_rsa
       - name: 🚀 Publish
-        run: rsync -avz --delete blog.polarweasel.org/public/ ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:${{ secrets.SSH_PATH }}
+        run: rsync -avz --delete ${{ vars.RSYNC_HOST }}${{ vars.RSYNC_PATH }} ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:${{ secrets.SSH_PATH }}
