@@ -1,6 +1,6 @@
 ---
 author: awball
-date: "2025-02-26T00:05:14+00:00"
+date: 2025-02-25
 title: Removing an ancient FileVault key
 url: /2025/02/25/filevault-key-trouble/
 ---
