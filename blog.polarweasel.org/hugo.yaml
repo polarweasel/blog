@@ -93,12 +93,12 @@ languages:
         logoHomeLink: /
     menu:
       main:
-        - identifier: about
-          name: About
-          url: /about
+        - identifier: writing
+          name: Tech docs
+          url: https://polarweasel.org/writing/
         - identifier: main-site
           name: Main site
-          url: https://polarweasel.org/new-site/
+          url: https://polarweasel.org/
 
 ################# Relearn theme config #################
 #  showShareButtons: false
